@@ -51,6 +51,8 @@ Things I'm curious about:
 
 ### `cat.exe`
 
+<img src="./cat-exe-pixel-mascot.png" width="100" alt="cat.exe pixel-art mascot">
+
 `cat.exe: monitoring suspicious activity...`
 
 ### `connect.exe`
