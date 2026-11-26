@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**whoschetna/whoschetna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `Chetna.exe`
 
-Here are some ideas to get you started:
+> Learning by building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+┌──────────────────────────────────────────────┐
+│  C:\CHETNA\DESKTOP                           │
+│                                              │
+│  about.txt       explorer                    │
+│  learning.log   side-quests                  │
+│  cat.exe                                     │
+│                                              │
+│  status: learning.exe is still running...    │
+└──────────────────────────────────────────────┘
+```
+
+### `about.txt`
+
+Hello, internet. I'm a curious developer exploring different corners of technology.
+
+I have a background in **BCA** and **MCA**, and I'm figuring things out one build, one bug, and one tiny breakthrough at a time.
+
+`404: Specialization not found. Curiosity detected.`
+
+### `explorer/`
+
+A few technologies I've studied and worked with:
+
+- Python
+- C#
+- SQL
+- Git & GitHub
+
+### `learning.log`
+
+Currently exploring:
+
+- Building and documenting projects
+- Strengthening programming fundamentals
+- Learning how to use Git and GitHub
+
+### `side-quests/`
+
+Things I'm curious about:
+
+- Web development
+- App development
+- Game development
+- Cybersecurity
+
+### `cat.exe`
+
+`cat.exe: monitoring suspicious activity...`
+
+### `connect.exe`
+
+- [GitHub](https://github.com/whoschetna)
+- [LinkedIn](https://www.linkedin.com/in/chetna-sarvankar)
+
+---
+
+<sub>Made with curiosity, questionable amounts of debugging, and a tiny cat.</sub>
